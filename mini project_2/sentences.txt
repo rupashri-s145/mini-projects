@@ -1,0 +1,4 @@
+Hello all,this is codeit foram,we are working on it.
+We all have to complete the given task within the given target time,so go and do that!
+This is my project on type writting which tracks your typing speed.
+It’s a very useful game to track your typing speed and improve it with regular practice.  
